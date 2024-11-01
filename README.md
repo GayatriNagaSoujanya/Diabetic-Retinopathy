@@ -114,7 +114,7 @@ Accuracy: The model achieves an accuracy of 70% on the test set.
 ## Usage
 1.Clone the repository:
 ```bash
-git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
+git clone https://github.com/GayatriNagaSoujanya/Diabetic-Retinopathy.git
 ```
 2.Install Dependencies:
 ```bash
